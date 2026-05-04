@@ -1,2 +1,17 @@
-# student-result-analysis
-Student performance analysis using Python, Pandas, and Matplotlib with grade calculation and charts.
+# Student Result Analysis
+
+This project analyzes student marks using Python, Pandas, and Matplotlib.
+
+## Features
+- Calculates Total Marks
+- Calculates Average Marks
+- Assigns Grades
+- Generates:
+  - Bar Chart
+  - Pie Chart
+  - Line Chart
+
+## Technologies Used
+- Python
+- Pandas
+- Matplotlib
